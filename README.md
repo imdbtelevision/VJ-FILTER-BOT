@@ -191,6 +191,8 @@ Edit info.py with variables as given below then run bot
  - Thanks To All Everyone In This Journey</b>
 
 ## Note 🏷️
+
+<b>• If You Want Paid Edits Or Any Paid Features In Any Kind Of Auto Filter Bot Repo You Can Contact Developer.</b>
  
 [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01) 
 
@@ -204,4 +206,5 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
 </pre>
 </p>
 </details>
+
 
